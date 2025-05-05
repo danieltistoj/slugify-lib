@@ -1,6 +1,6 @@
 {
   "name": "slugify-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -20,6 +20,13 @@
     "typescript",
     "library"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieltistoj/slugify-lib.git"
+  },
+  "author": {
+    "name": "Daniel Tistoj"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
